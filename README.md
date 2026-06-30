@@ -55,25 +55,18 @@ FixMyLocal is a civic engagement platform that lets citizens report local infras
 
 ## 📂 Project Structure
 
+```text
 FixMyLocal/
-
 ├── index.html          # Main app structure
-
 ├── style.css           # Design system & styling
-
 ├── app.js              # Core frontend logic
-
 ├── firebase-init.js    # Firebase configuration
-
 ├── config.js           # Frontend config
-
 ├── server.js           # Express backend — Gemini API proxy
-
 ├── package.json
-
 ├── Dockerfile
-
-├── images/              # App assets & avatars
+├── res/             # App assets & avatars
+```
 
 ## 🏃 Running Locally
 
