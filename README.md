@@ -13,7 +13,7 @@ FixMyLocal is a civic engagement platform that lets citizens report local infras
 
 ## 📽️ Demo Video
 
-[Watch Demo Video]((https://www.linkedin.com/posts/rehan-raza-ml_vibe2ship-googlecloud-geminiai-ugcPost-7477989114877960192-CgBy/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGW2CaEBh_uEfrt-O5hk_UCaQQJ11OgVNro))
+[Watch Demo Video](https://www.linkedin.com/posts/rehan-raza-ml_vibe2ship-googlecloud-geminiai-ugcPost-7477989114877960192-CgBy/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGW2CaEBh_uEfrt-O5hk_UCaQQJ11OgVNro)
 
 ## ✨ Key Features
 
