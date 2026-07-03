@@ -11,6 +11,10 @@
 
 FixMyLocal is a civic engagement platform that lets citizens report local infrastructure problems — potholes, broken streetlights, water leaks, garbage overflow, and more — with a simple photo upload. Google's Gemini AI instantly analyzes the report, categorizes it, assesses severity, detects spam, and routes it to the correct government department. The community can verify reports, track resolution status in real time, and even auto-escalate urgent issues with AI-generated official complaint letters.
 
+## 📽️ Demo Video
+
+[Watch Demo Video]([your-linkedin-post-url](https://www.linkedin.com/posts/rehan-raza-ml_vibe2ship-googlecloud-geminiai-ugcPost-7477989114877960192-CgBy/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGW2CaEBh_uEfrt-O5hk_UCaQQJ11OgVNro))
+
 ## ✨ Key Features
 
 - 📸 **Photo-based issue reporting** with GPS auto-location
